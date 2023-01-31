@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saran18&theme=radical"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saran18&theme=radical"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saran18&theme=radical"/>
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saran-v-balachandar-156182183/)
