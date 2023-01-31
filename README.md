@@ -5,7 +5,7 @@
 - 📫 You can reach out to me at my email: saran.balachandar@gmail.com
 
 
-[![Saran's github stats](https://github-readme-stats.vercel.app/api?username=saran18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Saran's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saran18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saran18&theme=radical"/>
 
