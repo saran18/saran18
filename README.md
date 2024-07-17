@@ -1,5 +1,5 @@
 👋 Hi there! I'm Saran✌️
-- 😎 I'm a Computer Science sophomore at the Indian Institute of Technology, Madras
+- 😎 I'm a Computer Science senior at the Indian Institute of Technology, Madras
 - 🤖 I’m interested in software development and deep learning.
 - 🌱 I’m currently exploring the depths of C++ and Python, and using them to build exciting projects.  
 - 📫 You can reach out to me at my email: saran.balachandar@gmail.com
